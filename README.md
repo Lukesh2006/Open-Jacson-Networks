@@ -1,4 +1,5 @@
 # Series Queues with infinite capacity - Open Jackson Network
+# Date : 07.12.24
 
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the each conveyor of (c) waiting time of each material in the system (d) waiting time of each material in each conveyor, if the arrival  of materials follow Poisson process with the mean interval time 12 seconds, service time of  lathe machine in series follow exponential distribution  with service time  1 second, 1.5 seconds and 1.3 seconds respectively and average service time of robot is 7 seconds.
@@ -17,13 +18,14 @@ Visual components and Python
 
 
 ## Experiment:
-![image](https://github.com/user-attachments/assets/89af9309-ac1f-4428-a7be-a2a87b90a787)
+
+![Screenshot 2024-12-20 140918](https://github.com/user-attachments/assets/5c8c410d-c6b1-4dc3-b910-5ed43dfa80c9)
 
 
 ## Program
 ```
-Name    : PYNAM VINODH
-Reg No. : 212223240131
+Name    : LUKESH M 
+Reg No. : 24901128
 ```
 ```
 
@@ -65,10 +67,10 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
 ```
-## Output
+# Output :
+![Screenshot 2024-12-20 141013](https://github.com/user-attachments/assets/7452843f-8d44-4f8c-90bf-041634a5880a)
 
-![Screenshot 2024-11-07 154707](https://github.com/user-attachments/assets/e0e0ab53-02b4-419d-9098-cfe25ddb981c)
 
-## Result
+## Result :
 
 The average number of material in the system and in the conveyor and waiting time are successfully found.
